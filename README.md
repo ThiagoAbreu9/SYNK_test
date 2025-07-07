@@ -32,7 +32,9 @@ Este projeto é um assistente inteligente que utiliza **React** no frontend e **
 ```bash
 git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 cd SEU_REPOSITORIO
-
+npm run dev ( para o front )
+n8n start 
+coloque suas credenciais e sua chave APY da openIA
 ---
 
 ## Deploy 
