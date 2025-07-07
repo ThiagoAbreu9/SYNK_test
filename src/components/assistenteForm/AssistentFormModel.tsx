@@ -10,8 +10,6 @@ export function useAssistFormModel() {
       // A resposta é um array, vamos pegar o primeiro elemento
       const firstItem = Array.isArray(response.data) ? response.data[0] : response.data;
 
-      console.log('Resposta completa do n8n:', firstItem);
-
       // Agora extrair o texto esperado de resposta ou output dentro do objeto
       const resposta = firstItem?.resposta || firstItem?.output || null;
 
