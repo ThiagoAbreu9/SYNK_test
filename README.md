@@ -40,5 +40,5 @@ https://synk-test.vercel.app/
 
 ## Fluxo
 
-![Fluxograma](./assets/fluxograma.png)
+![Fluxograma](./src/assets/fluxograma.png)
 
