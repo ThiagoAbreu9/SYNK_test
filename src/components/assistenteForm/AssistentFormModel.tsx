@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export function useAssistFormModel() {
-  const apiUrl = 'http://localhost:5678/webhook/gerar-resposta'; // webhook n8n
+  const apiUrl = 'https://tads111.app.n8n.cloud/webhook-test/gerar-resposta'; // webhook n8n
 
   const fetchResponse = async (empresa: string, produto: string, detalhes: string) => {
     try {
