@@ -32,3 +32,7 @@ Este projeto é um assistente inteligente que utiliza **React** no frontend e **
 ```bash
 git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 cd SEU_REPOSITORIO
+
+##Deploy 
+
+https://synk-test.vercel.app/
