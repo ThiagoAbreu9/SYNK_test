@@ -33,10 +33,12 @@ Este projeto é um assistente inteligente que utiliza **React** no frontend e **
 git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 cd SEU_REPOSITORIO
 
-### FLUXO 
-
-![image](https://github.com/user-attachments/assets/6bc9a0e4-76f3-4bc3-8a3c-2a74cd9dc33e)
 
 ## Deploy 
 
 https://synk-test.vercel.app/
+
+## Fluxo
+
+![Fluxograma](./assets/fluxograma.png)
+
